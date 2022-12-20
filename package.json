@@ -1,0 +1,25 @@
+{
+  "name": "perlin-noise",
+  "version": "0.1.0",
+  "description": "A simple perlin noise generator shader",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seba1204/perlin-noise.git"
+  },
+  "keywords": [
+    "perlin-noise",
+    "shader",
+    "webgl",
+    "reactjs"
+  ],
+  "author": "Sébastien PONT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seba1204/perlin-noise/issues"
+  },
+  "homepage": "https://github.com/seba1204/perlin-noise#readme"
+}
