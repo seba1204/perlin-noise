@@ -1,0 +1,12 @@
+{
+    "conventionalCommits.scopes": [
+        "01-cpp"
+    ],
+    "cSpell.enableFiletypes": [
+        "markdown"
+    ],
+    "cSpell.words": [
+        "cout",
+        "Doxygen"
+    ]
+}
